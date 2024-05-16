@@ -9,7 +9,7 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 
-char[] array = {'H', 'e', 'l', 'l', 'o'};
+char[] array = {'2'};
 int count = 0;
 for (int i=0; i<array.Length; i++)
     {
